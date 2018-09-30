@@ -3,8 +3,9 @@ body {
 }
 
 
+
 .main-navbar {
-  background-color: #7F847D;
+  background-color: #757A7A;
   display: flex;
   justify-content: space-between;
 }
@@ -89,4 +90,32 @@ i.right.head-icon {
   margin-top: 12px;
   width: 400px;
   height: 450px;
+}
+
+.bottom.page-footer {
+  background-color: #757A7A;
+}
+
+.itsmichaelb-footer {
+  text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+  opacity: 0.4;
+  font: 40px 'Maven Pro', sans-serif;
+}
+
+.grey-text.text-lighten-4.email-footer{
+  text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+  opacity: 0.4;
+  font: 20px 'Maven Pro', sans-serif;
+}
+
+.footer-social-media {
+  font: 20px 'Maven Pro', sans-serif;
+  text-align: center;
+}
+
+
+.grey-text.text-lighten-3.footer-link {
+  font-family: 'bangers';
+  font-size: 20px;
+  padding-left: 10px;
 }
